@@ -1,6 +1,6 @@
 /*
  * Program: Fibonacci Sequence
- * Author: Jed Ivan Alcala
+ * Author: jedi-766
  * Date: May 15, 2025
  * Description: This program prints the Fibonacci sequence up to n terms entered by the user.
  */
